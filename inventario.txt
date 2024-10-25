@@ -1,2 +1,4 @@
+
 inventario
 cambiamos contenido de inventario
+cambio desde local nano
