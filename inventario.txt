@@ -2,3 +2,4 @@
 inventario
 cambiamos contenido de inventario
 cambio desde local nano
+2 cambio desde github
