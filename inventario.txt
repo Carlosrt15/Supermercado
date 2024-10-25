@@ -1,1 +1,2 @@
 inventario
+cambiamos contenido de inventario
